@@ -1,0 +1,13 @@
+C:\Users\Shival\Documents\Prac_Problems\cube\bin\Debug\netcoreapp3.1\cube.exe
+C:\Users\Shival\Documents\Prac_Problems\cube\bin\Debug\netcoreapp3.1\cube.deps.json
+C:\Users\Shival\Documents\Prac_Problems\cube\bin\Debug\netcoreapp3.1\cube.runtimeconfig.json
+C:\Users\Shival\Documents\Prac_Problems\cube\bin\Debug\netcoreapp3.1\cube.runtimeconfig.dev.json
+C:\Users\Shival\Documents\Prac_Problems\cube\bin\Debug\netcoreapp3.1\cube.dll
+C:\Users\Shival\Documents\Prac_Problems\cube\bin\Debug\netcoreapp3.1\cube.pdb
+C:\Users\Shival\Documents\Prac_Problems\cube\obj\Debug\netcoreapp3.1\cube.csprojAssemblyReference.cache
+C:\Users\Shival\Documents\Prac_Problems\cube\obj\Debug\netcoreapp3.1\cube.AssemblyInfoInputs.cache
+C:\Users\Shival\Documents\Prac_Problems\cube\obj\Debug\netcoreapp3.1\cube.AssemblyInfo.cs
+C:\Users\Shival\Documents\Prac_Problems\cube\obj\Debug\netcoreapp3.1\cube.csproj.CoreCompileInputs.cache
+C:\Users\Shival\Documents\Prac_Problems\cube\obj\Debug\netcoreapp3.1\cube.dll
+C:\Users\Shival\Documents\Prac_Problems\cube\obj\Debug\netcoreapp3.1\cube.pdb
+C:\Users\Shival\Documents\Prac_Problems\cube\obj\Debug\netcoreapp3.1\cube.genruntimeconfig.cache
