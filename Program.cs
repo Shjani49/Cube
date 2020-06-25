@@ -31,7 +31,8 @@ namespace cube
             
         }
 
-        
+        // @ Link: https://www.geeksforgeeks.org/program-for-sum-of-the-digits-of-a-given-number/
+        // Just took a logic from this website.
         // Calaulate the Sum and return value to the main function
         //  getSum() is a function that returns the sum of all the items that have been added to the dataset
         static int getSum(int number)
@@ -40,10 +41,11 @@ namespace cube
             int sum ;
             // For loop has 3 parts: initialization, condition, and change
             // Here we Initialize variable sum to zero..
-            //increment number to sum by % 10
+            //Get the modulus/remainder of the number and sum the remainder of the number
             //number divided by 10 
+            // Repeat the loop until number is greater than 0.
             for (sum = 0; number > 0; sum += number % 10,number/= 10); 
-            
+
             // return sum 
             return sum; 
         }
